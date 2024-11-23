@@ -71,14 +71,6 @@
         <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
         <asciidoctor-maven-plugin.version>1.5.3</asciidoctor-maven-plugin.version>
 
-        <!-- External Dependencies Properties -->
-        <powermock.version>2.0.9</powermock.version>
-        <commons-lang.version>2.4</commons-lang.version>
-        <json.version>20231013.0.0.redhat-00001</json.version>
-        <elasticsearch.version>7.17.22</elasticsearch.version>
-        <opentracing-elasticsearch7-client.version>0.1.6</opentracing-elasticsearch7-client.version>
-        <okio.version>3.4.0</okio.version>
-        <snappyjava.version>1.1.10.5</snappyjava.version>
 
         <!-- MDM-related Dependencies -->
         <mdmcommons-spring-security.version>5.0.6</mdmcommons-spring-security.version>
